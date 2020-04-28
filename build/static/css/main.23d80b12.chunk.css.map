@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAIA,gBAHE,WAOF,CAJA,KACE,QAAS,CACT,wBAEF","file":"main.23d80b12.chunk.css","sourcesContent":["html, #root {\n  height: 100%;\n}\n\nbody {\n  margin: 0;\n  background-color: #F5F2ED;\n  height: 100%;\n}"]}
